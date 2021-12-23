@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x1398568b5a5f688779f846a8f011e1c8e4593a9b",
+  "SCAN_LINK": "https://polygonscan.com/address/0x1398568b5a5f688779f846a8f011e1c8e4593a9b",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Hot Hearts",
+  "SYMBOL": "HH",
+  "MAX_SUPPLY": 500,
+  "WEI_COST": 10000000000000000000,
+  "DISPLAY_COST": 10,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/hot-hearts",
+  "SHOW_BACKGROUND": true
+}
